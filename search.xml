@@ -218,11 +218,6 @@
 <h6 id="参考文献"><a href="#参考文献" class="headerlink" title="参考文献"></a>参考文献</h6><div id="footnotes"><hr><div id="footnotelist"><ol style="list-style: none; padding-left: 0; margin-left: 40px"><li id="fn:1"><span style="display: inline-block; vertical-align: top; padding-right: 10px; margin-left: -40px">1.</span><span style="display: inline-block; vertical-align: top; margin-left: 10px;"><a href="https://d.wanfangdata.com.cn/periodical/zjwlxyxb200706006">张福通. 民国时期电报日期代用字考察[J]. 浙江万里学院学报,2007,20(6):22-24. DOI:10.3969/j.issn.1671-2250.2007.06.006.</a><a href="#fnref:1" rev="footnote"> ↩</a></span></li></ol></div></div>]]></content>
   </entry>
   <entry>
-    <title>_postpic</title>
-    <url>/postpic/index.html</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css">]]></content>
-  </entry>
-  <entry>
     <title>categories</title>
     <url>/categories/index.html</url>
     <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css">]]></content>
@@ -230,6 +225,11 @@
   <entry>
     <title>tag</title>
     <url>/tag/index.html</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css">]]></content>
+  </entry>
+  <entry>
+    <title>_postpic</title>
+    <url>/postpic/index.html</url>
     <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css">]]></content>
   </entry>
 </search>

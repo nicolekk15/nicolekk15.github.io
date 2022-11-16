@@ -177,7 +177,7 @@ template {
   color: #657b83;
 }
 .highlight table {
-  background: #fdf6e3;
+  background: #eef5ff;
 }
 .highlight .code .comment,
 .highlight .code .quote {
@@ -682,7 +682,7 @@ input[type="search"]::-webkit-search-results-decoration {
 }
 .search-result-container mark {
   color: #373633;
-  background-color: #fff59b;
+  background-color: #b0c4de;
 }
 .search-header {
   display: flex;
@@ -951,7 +951,7 @@ code {
   font-family: 'Roboto Mono', menlo, monospace;
   font-size: 0.875rem;
   line-height: 1rem;
-  color: #0177aa;
+  color: #697895;
 }
 .code pre span {
   font-family: 'Roboto Mono', menlo, monospace;

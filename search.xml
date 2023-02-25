@@ -26,18 +26,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>读-《DUNE》FrankHerbert</title>
-    <url>/2022/11/16/%E8%AF%BB-%E3%80%8ADUNE%E3%80%8BFrankHerbert/</url>
-    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css">]]></content>
-      <categories>
-        <category>gallery</category>
-      </categories>
-      <tags>
-        <tag>book</tag>
-        <tag>literature</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>记-品普洱后阅读《极端之美》选段有感</title>
     <url>/2021/07/06/%E8%AE%B0-%E5%93%81%E6%99%AE%E6%B4%B1%E5%90%8E%E9%98%85%E8%AF%BB%E3%80%8A%E6%9E%81%E7%AB%AF%E4%B9%8B%E7%BE%8E%E3%80%8B%E9%80%89%E6%AE%B5%E6%9C%89%E6%84%9F/</url>
     <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><blockquote>
@@ -50,9 +38,21 @@
 
 ]]></content>
       <tags>
-        <tag>literature</tag>
         <tag>diary</tag>
         <tag>course</tag>
+        <tag>literature</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>读-《DUNE》FrankHerbert</title>
+    <url>/2022/11/16/%E8%AF%BB-%E3%80%8ADUNE%E3%80%8BFrankHerbert/</url>
+    <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css">]]></content>
+      <categories>
+        <category>gallery</category>
+      </categories>
+      <tags>
+        <tag>literature</tag>
+        <tag>book</tag>
       </tags>
   </entry>
   <entry>
@@ -63,8 +63,8 @@
         <category>gallery</category>
       </categories>
       <tags>
-        <tag>book</tag>
         <tag>literature</tag>
+        <tag>book</tag>
       </tags>
   </entry>
   <entry>
@@ -75,8 +75,8 @@
         <category>gallery</category>
       </categories>
       <tags>
-        <tag>book</tag>
         <tag>literature</tag>
+        <tag>book</tag>
       </tags>
   </entry>
   <entry>
@@ -87,8 +87,8 @@
         <category>gallery</category>
       </categories>
       <tags>
-        <tag>book</tag>
         <tag>literature</tag>
+        <tag>book</tag>
       </tags>
   </entry>
   <entry>
@@ -97,7 +97,7 @@
     <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css"><p>钟汉良&amp;唐嫣主演的电视剧《何以笙箫默》主题曲《好久不见》前奏，如果加上小提琴的声音古典味会更强。</p>
 <p>百听不厌的一段旋律，像一段轻盈的旋转舞蹈。</p>
 <p>有评论说听的时候有一种造化弄人的宿命感……“宿命感”太无力了，太忧伤了，不如说是缘分的羁绊感——无论是内心期待的情感还是热爱，都将抵御岁月的消磨，跨越万重山水，与你相遇。</p>
-<center><video src='../videosr/hjbj.mp4' type='video/mp4' controls='controls'  width='100%' height='100%'>
+<center><video src='../../../../videosr/hjbj.mp4' type='video/mp4' controls='controls'  width='100%' height='100%'>
 </video> 
 
 ]]></content>
@@ -252,13 +252,13 @@
 <h6 id="参考文献"><a href="#参考文献" class="headerlink" title="参考文献"></a>参考文献</h6><div id="footnotes"><hr><div id="footnotelist"><ol style="list-style: none; padding-left: 0; margin-left: 40px"><li id="fn:1"><span style="display: inline-block; vertical-align: top; padding-right: 10px; margin-left: -40px">1.</span><span style="display: inline-block; vertical-align: top; margin-left: 10px;"><a href="https://d.wanfangdata.com.cn/periodical/zjwlxyxb200706006">张福通. 民国时期电报日期代用字考察[J]. 浙江万里学院学报,2007,20(6):22-24. DOI:10.3969/j.issn.1671-2250.2007.06.006.</a><a href="#fnref:1" rev="footnote"> ↩</a></span></li></ol></div></div>]]></content>
   </entry>
   <entry>
-    <title>categories</title>
-    <url>/categories/index.html</url>
+    <title>_postpic</title>
+    <url>/postpic/index.html</url>
     <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css">]]></content>
   </entry>
   <entry>
-    <title>_postpic</title>
-    <url>/postpic/index.html</url>
+    <title>categories</title>
+    <url>/categories/index.html</url>
     <content><![CDATA[<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/hint.css/2.4.1/hint.min.css">]]></content>
   </entry>
   <entry>

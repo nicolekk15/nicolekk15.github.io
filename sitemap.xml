@@ -245,7 +245,21 @@
 
   
   <url>
+    <loc>https://www.nicolekk.com/tag/JI/</loc>
+    <lastmod>2023-03-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://www.nicolekk.com/tag/diary/</loc>
+    <lastmod>2023-03-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.nicolekk.com/tag/hexo/</loc>
     <lastmod>2023-03-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -260,20 +274,6 @@
   
   <url>
     <loc>https://www.nicolekk.com/tag/literature/</loc>
-    <lastmod>2023-03-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.nicolekk.com/tag/JI/</loc>
-    <lastmod>2023-03-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.nicolekk.com/tag/hexo/</loc>
     <lastmod>2023-03-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -371,27 +371,6 @@
   </url>
   
   <url>
-    <loc>https://www.nicolekk.com/tag/SONG/</loc>
-    <lastmod>2023-03-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.nicolekk.com/tag/pdf/</loc>
-    <lastmod>2023-03-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.nicolekk.com/tag/magazine/</loc>
-    <lastmod>2023-03-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.nicolekk.com/tag/handwork/</loc>
     <lastmod>2023-03-05</lastmod>
     <changefreq>weekly</changefreq>
@@ -421,6 +400,27 @@
   
   <url>
     <loc>https://www.nicolekk.com/tag/XU/</loc>
+    <lastmod>2023-03-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.nicolekk.com/tag/SONG/</loc>
+    <lastmod>2023-03-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.nicolekk.com/tag/pdf/</loc>
+    <lastmod>2023-03-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.nicolekk.com/tag/magazine/</loc>
     <lastmod>2023-03-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
